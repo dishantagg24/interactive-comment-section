@@ -1,0 +1,30 @@
+.message-input {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 7px;
+  padding: 15px;
+  margin-top: 7px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.message {
+  border-radius: 7px;
+  resize: none;
+  padding: 15px;
+  outline: none;
+  /* width: 25rem; */
+  margin-right: 10px;
+}
+
+.submit-btn {
+  background-color: hsl(238, 40%, 52%);
+  color: hsl(223, 19%, 93%);
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  border-radius: 7px;
+  width: 7vw;
+  height: 5vh;
+  border: none;
+  cursor: pointer;
+}

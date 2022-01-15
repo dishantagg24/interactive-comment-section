@@ -1,0 +1,14 @@
+.vertical-line {
+  border: 1px solid hsl(239, 57%, 85%);
+  width: 0%;
+  margin: 0px 35px;
+}
+
+.reply-container {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.card-container {
+  margin-bottom: 15px;
+}

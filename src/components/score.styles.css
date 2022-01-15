@@ -1,0 +1,17 @@
+.btn {
+  border: none;
+  cursor: pointer;
+}
+
+.score-point {
+  text-align: center;
+  color: hsl(238, 40%, 52%);
+  font-weight: 700;
+}
+
+.score {
+  background-color: hsl(223, 19%, 93%);
+  border-radius: 7px;
+  padding: 5px;
+  height: 15vh;
+}

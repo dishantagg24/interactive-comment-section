@@ -1,0 +1,10 @@
+.custom-btn {
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(238, 40%, 52%);
+  font-weight: 700;
+  font-size: 16px;
+  font-family: "Rubik", sans-serif;
+  cursor: pointer;
+  border: none;
+  margin: 7px;
+}

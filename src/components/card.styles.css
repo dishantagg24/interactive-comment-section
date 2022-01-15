@@ -1,0 +1,61 @@
+.card {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 7px;
+  padding: 15px;
+  display: flex;
+}
+
+.comment {
+  margin-left: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.user-info {
+  display: flex;
+}
+
+img {
+  margin-right: 20px;
+}
+
+.content {
+  color: hsl(211, 10%, 45%);
+}
+
+.time-period {
+  color: hsl(211, 10%, 45%);
+  margin: auto 0;
+}
+
+.username {
+  margin: auto 0;
+  margin-right: 15px;
+}
+
+.name {
+  color: hsl(212, 24%, 26%);
+  font-weight: 500;
+}
+
+.tag {
+  color: hsl(238, 40%, 52%);
+  font-weight: 700;
+}
+
+.user {
+  background-color: hsl(238, 40%, 52%);
+  color: hsl(223, 19%, 93%);
+  text-align: center;
+  padding: 3px;
+  border-radius: 3px;
+  font-weight: 500;
+  margin: 7px;
+}
+
+.delete-edit-btn {
+  margin: auto 0;
+}
